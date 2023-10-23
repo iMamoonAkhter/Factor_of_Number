@@ -1,6 +1,6 @@
 # Finding Factors of Number
 
-![Demo](demo.png)
+![Demo](Demo.png)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Welcome to the "Finding Factors of Number" project! This repository hosts a vers
 
 Here's a glimpse of the program in action:
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](Demo.png)
 
 ## Installation
 
